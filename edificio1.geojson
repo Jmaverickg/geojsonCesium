@@ -1,0 +1,42 @@
+Quiz: SIG 3D
+Nombre: José Mauricio Garavito    20171094008
+
+Descripción del lugar donde habito:
+
+
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -74.1396501660347,
+              4.7085822058538485
+            ],
+            [
+              -74.13971185684204,
+              4.70854478165717
+            ],
+            [
+              -74.13965553045273,
+              4.708469933257783
+            ],
+            [
+              -74.13960993289948,
+              4.7085073574584815
+            ],
+            [
+              -74.1396501660347,
+              4.7085822058538485
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
